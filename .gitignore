@@ -1,0 +1,3 @@
+dist/
+.julia/
+*.jl.~
